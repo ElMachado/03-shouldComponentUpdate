@@ -1,4 +1,4 @@
-# webpack-sass-vanillajs
+# 03-shouldComponentUpdate
 
 Using Sass + vanilla js + Webpack
 
